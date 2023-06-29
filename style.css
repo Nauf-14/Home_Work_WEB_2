@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+h2 {
+    color: darkslategray;
+}
+
+a {
+    color: chartreuse;
+}
+
+img {
+    width: 500px;
+}
+
+ul {
+    list-style-type: square;
+}
+
